@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EjercicioLayout</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hintName">Ingresa tu nombre</string>
+    <string name="btnText">Aceptar</string>
+
+
+</resources>
